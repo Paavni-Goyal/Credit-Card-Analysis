@@ -34,7 +34,7 @@ This project explores key behavioral and demographic insights from a credit card
 ## 📁 Files Included
 
 - `Credit Card Analysis.Customer.pdf` – Power BI dashboard file for customer insights
--`Credit Card Analysis.Transaction.pdf` – Power BI dashboard file for transactional insights
+- `Credit Card Analysis.Transaction.pdf` – Power BI dashboard file for transactional insights
 - `Credit Card Analysis Report.pdf` – In-depth insights report
 
 
