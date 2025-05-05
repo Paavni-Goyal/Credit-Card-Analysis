@@ -38,6 +38,4 @@ This project explores key behavioral and demographic insights from a credit card
 - `Credit Card Analysis Report.pdf` – In-depth insights report
 
 
----
 
-> *This project is part of a data storytelling initiative to drive actionable business intelligence through visual analytics.*
